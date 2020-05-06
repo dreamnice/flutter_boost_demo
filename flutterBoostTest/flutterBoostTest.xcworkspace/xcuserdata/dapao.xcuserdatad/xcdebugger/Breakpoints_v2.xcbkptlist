@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3FBA2222-1A47-4418-8855-3F674A796B4C"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F9DC45DE-BBCF-47A1-A1D4-88F2C2A834CA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../flutter/flutter/.pub-cache/git/flutter_boost-605882d718a2f5513f36e5bc981787bd195a198d/ios/Classes/Engine/FLBFlutterEngine.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "-initWithPlatform:engine:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F6B52200-1B58-40BD-A1F1-D69629DB2F84"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../flutter/flutter/.pub-cache/git/flutter_boost-605882d718a2f5513f36e5bc981787bd195a198d/ios/Classes/Engine/FLBFlutterEngine.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "-initWithPlatform:engine:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "84C35F44-EEAC-4FB7-8E9D-B2015F76FEA7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../flutter/flutter/.pub-cache/git/flutter_boost-605882d718a2f5513f36e5bc981787bd195a198d/ios/Classes/container/FLBFlutterViewContainer.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "210"
+            endingLineNumber = "210"
+            landmarkName = "-viewDidAppear:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D1D28C9D-FDD4-441F-8CA8-451B2258434D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../flutter/flutter/.pub-cache/git/flutter_boost-605882d718a2f5513f36e5bc981787bd195a198d/ios/Classes/container/FLBFlutterViewContainer.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "204"
+            endingLineNumber = "204"
+            landmarkName = "-viewDidAppear:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D1D28C9D-FDD4-441F-8CA8-451B2258434D - ed1cc1a2ed5354c"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[FLBFlutterViewContainer viewDidAppear:]"
+                  moduleName = "flutterBoostTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dapao/flutter/flutter/.pub-cache/git/flutter_boost-605882d718a2f5513f36e5bc981787bd195a198d/ios/Classes/container/FLBFlutterViewContainer.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "204"
+                  endingLineNumber = "204"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  uuid = "D1D28C9D-FDD4-441F-8CA8-451B2258434D - 6ae4d15ef10dc8c7"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__41-[FLBFlutterViewContainer viewDidAppear:]_block_invoke"
+                  moduleName = "flutterBoostTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dapao/flutter/flutter/.pub-cache/git/flutter_boost-605882d718a2f5513f36e5bc981787bd195a198d/ios/Classes/container/FLBFlutterViewContainer.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "204"
+                  endingLineNumber = "204"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C50F1C10-C4B9-46AD-B34E-22293F9A1AD8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../flutter/flutter/.pub-cache/git/flutter_boost-605882d718a2f5513f36e5bc981787bd195a198d/ios/Classes/container/FLBFlutterViewContainer.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "212"
+            endingLineNumber = "212"
+            landmarkName = "-viewDidAppear:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7A9FB845-3969-4AD4-9C9E-971E604B2C8F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../flutter/flutter/.pub-cache/git/flutter_boost-605882d718a2f5513f36e5bc981787bd195a198d/ios/Classes/container/FLBFlutterViewContainer.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "202"
+            endingLineNumber = "202"
+            landmarkName = "-viewDidAppear:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
